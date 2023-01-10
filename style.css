@@ -1,0 +1,23 @@
+.formC.success input{
+    border-color: #2ecc71;
+}
+
+.formC.error input{
+    border-color: #e74c3c;
+}
+
+
+
+.formC small{
+    color: #e74c3c;
+    position: absolute;
+ 
+    
+    visibility: hidden;
+}
+
+.formC.error small{
+    visibility: visible;
+}
+
+
